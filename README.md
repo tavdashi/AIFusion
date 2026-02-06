@@ -1,5 +1,5 @@
 # AIFusion
-# 🚀 Project Nexus (AIFusion)
+# 🚀 Project Nexus 
 > **AI-Powered Campus Intelligence System**
 
 ![Project Nexus Banner](https://via.placeholder.com/1000x300?text=Project+Nexus+Banner)
