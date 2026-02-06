@@ -2,9 +2,6 @@
 # 🚀 Project Nexus 
 > **AI-Powered Campus Intelligence System**
 
-![Project Nexus Banner](https://via.placeholder.com/1000x300?text=Project+Nexus+Banner)
-*(Replace this link with a screenshot of your dashboard later)*
-
 ## 📖 Overview
 **Project Nexus** is a Full-Stack "Super App" designed to streamline campus life. It consolidates scattered information—like mess menus, long emails, and student feedback—into a single, intelligent dashboard powered by Python-based AI.
 
